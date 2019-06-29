@@ -1,0 +1,22 @@
+img.resize {
+  max-width:50%;
+  max-height:50%;
+  align:center;
+}
+.main_image{
+  margin: auto;
+  width: 50%;
+}
+.search_box
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
