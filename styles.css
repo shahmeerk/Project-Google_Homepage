@@ -23,3 +23,27 @@ img.resize {
   display: inline-block;
   float: right
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.head {
+  float: right;
+}
+
+a {
+  display: block;
+  padding: 8px;
+}
+body{
+    font-family: arial,sans-serif;
+}
+.foot {
+  float: left;
+}
+.foot-right{
+  float: right;
+}
